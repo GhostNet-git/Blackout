@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhostNet-git/Blackout/main/banners.png" alt="Blackout Banner" />
+  <img src="https://raw.githubusercontent.com/GhostNet-git/Blackout/main/BLACKOUT_LOGO.png" alt="Blackout Banner" />
 </p>
 
 <h1 align="center">blackout 🚀</h1>
