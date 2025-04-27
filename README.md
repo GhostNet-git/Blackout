@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhostNet-git/Blackout/main/banners.png" alt="Blackout Banner" />
+</p>
+
+<h1 align="center">blackout 🚀</h1>
+
+<p align="center">
 
 
 
@@ -99,5 +106,5 @@ Uso restrito. Distribuição permitida apenas com autorização do autor.
 
 ✉️ Contato
 
-Autor: LUAN CARLOS Email: limacharlly@gmail.com Projeto: ZeroKey
+Autor: GhostNet Email: melibi6053@ancewa.com Projeto: ZeroKey
 
